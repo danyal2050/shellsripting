@@ -1,0 +1,11 @@
+TIME="the current date and time: \c"
+USERS="The number of users: \c"
+PERSONAL="Personal Identity: \c"
+echo -e $TIME
+date
+echo -e $USERS
+who | wc -l
+echo -e $PERSONAL 
+whoami
+exit 0
+
