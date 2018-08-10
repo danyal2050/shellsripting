@@ -1,0 +1,6 @@
+QUESTION="What is your name: \c"
+echo -e $QUESTION
+read NAME
+echo "How do you do $NAME?"	
+read FINE
+echo "$NAME $FINE"
