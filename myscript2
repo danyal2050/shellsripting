@@ -1,0 +1,7 @@
+echo "the current date and time : \c"
+ date
+echo "the number of users : \c"
+ who | wc -l
+echo "Personal status : \c"
+ whoami
+exit 0
