@@ -1,0 +1,6 @@
+dog=lassie 
+test $dog = lassie
+echo $?
+test $dog = pluto
+echo $?
+
