@@ -1,0 +1,4 @@
+#!/bin/bash
+clear
+echo "Welcome to Shell Scripting"
+
