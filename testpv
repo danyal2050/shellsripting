@@ -1,0 +1,5 @@
+echo "The following is the output of $0 script:"
+echo "The total number od command line arguments: $#"
+echo "The first parameter: $1"
+echo "The second parameter: $2"
+echo "This is the list of all the parameters: $*"
